@@ -13,6 +13,7 @@
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
 <img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
 <img alt="MySql" src="https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=white" height="25px"/>
+<img alt="MySql" src="https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=white" height="25px"/>
 <br>
 <br>
 <br>
@@ -25,7 +26,7 @@
 <br>
 <br>
 <div class="markdown-heading" dir="auto"><h3 align="center" tabindex="-1" class="heading-element" dir="auto">🪧 Contact 🪧</h3><a id="user-content--contact-" class="anchor" aria-label="Permalink: 📫 Contact 📫" href="#-contact-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<a href="mailto:KJW040416@gmail.com"><img src="https://camo.githubusercontent.com/6ebc64c5ec6fb81e96b82550d9440790c2f6e3b93342be0b2def98e3e36c78f9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6f6b613133313340676d61696c2e636f6d2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/KJW040416@gmail.com-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">&nbsp;</a>   
+<a href="mailto:KJW040416@gmail.com"><img alt="Instagram" src="https://img.shields.io/badge/gmail-#D14636?style=for-the-badge&logo=KJW040416@gmail.com&logoColor=white"  height="30px"/></a>   
 <a href="https://www.instagram.com/ryun__04" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
 <br>
 <br>
