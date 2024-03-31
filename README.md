@@ -12,11 +12,22 @@
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
 <img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
 </div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 <div align="center">
 🛠️ Tools 🛠️
 </div>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 <div align="center">
