@@ -1,7 +1,5 @@
-# Hello
-
-## 🛠️ Technologies and Tools I use:
-asdas
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=22&pause=1000&color=0F474B&random=false&width=435&lines=Hello!!+Welcome+to+KIMJW04+github!!)](https://git.io/typing-svg)
+<div align="center">
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
@@ -25,10 +23,9 @@ asdas
 <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
 <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
-
+</div>
  ## ❤️ Let's get connected:
 <a href="https://www.instagram.com/ryun__04" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=rose_pine )
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KIMJW04)](https://github.com/anuraghazra/github-readme-stats)
