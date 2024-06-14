@@ -36,6 +36,12 @@
 <br>
 <br>
 <br>
-  
+<h3 align="center" tabindex="-1" class="heading-element" dir="auto">📽️ Project 📽️</h3>
+
+<br>
+<br>
+<br>
+<br>
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=rose_pine )
 </div>
