@@ -37,6 +37,7 @@
 <br>
 <br>
 <h3 align="center" tabindex="-1" class="heading-element" dir="auto">📽️ Project 📽️</h3>
+<a href="https://github.com/KIMJW04/travelrank">TRAVEL RANK (여행지 순위 사이트)</a>
 <br>
 <br>
 <br>
