@@ -36,6 +36,7 @@
 <br>
 <br>
 <br>
+<<<<<<< HEAD
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIMJW04&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
@@ -46,4 +47,13 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=KIMJW04&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=rose_pine )
+=======
+<h3 align="center" tabindex="-1" class="heading-element" dir="auto">📽️ Project 📽️</h3>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+>>>>>>> 28c066ca8a2b0228116a73e5c2504982f10fae55
 </div>
