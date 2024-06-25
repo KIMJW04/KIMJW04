@@ -42,9 +42,6 @@
 </div>
 <br>
 <br>
-<br>
-<br>
-<br>
 
 ---
 
@@ -57,9 +54,6 @@
 </div>
 <br>
 <br>
-<br>
-<br>
-<br>
 
 ---
 
@@ -70,16 +64,10 @@
 </div>
 <br>
 <br>
-<br>
-<br>
-<br>
 
 ---
 
 <div align="center" class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto">📽️ Project 📽️</h3><a href="https://github.com/KIMJW04/travelrank">TRAVEL RANK (여행지 순위 사이트)</a></div>
-<br>
-<br>
-<br>
 <br>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
