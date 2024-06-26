@@ -15,7 +15,7 @@
 
 - [Github Blog] - [BLOG](https://kimjw04.github.io/)
 
-- [Website01 - Youtube History 정보 서치] - [History 사이트](https://hisytb.netlify.app/) & [Github README 정리](https://youtube-att.vercel.app/)
+- [Website01 - Youtube History 정보 서치] - [History 사이트](https://youtube-att.vercel.app/) & [Github README 정리](https://github.com/KIMJW04/youtube_att)
   
 - [Website02 - 음악 차트 순위 정보 및 플레이리스트] - [Music Chart 사이트](https://miento-music.netlify.app/) & [Github README 정리](https://github.com/KIMJW04/youtube_music)
   
