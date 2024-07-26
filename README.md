@@ -17,11 +17,11 @@
 
 - [Website01 - Youtube History 정보 서치] - [History 사이트](https://youtube-att.vercel.app/) & [Github README 정리](https://github.com/KIMJW04/youtube_att)
   
-- [Website02 - 음악 차트 순위 정보 및 플레이리스트] - [Music Chart 사이트](https://miento-music.netlify.app/) & [Github README 정리](https://github.com/KIMJW04/youtube_music)
+- [Website02 - 음악 차트 순위 정보 및 플레이리스트] - [Music Chart 사이트](https://miento-music.netlify.app/) & [Github README 정리](https://github.com/KIMJW04/vue-movie)
   
 - [Website03 - 포트폴리오] - [포트폴리오 사이트](https://miento-vue.netlify.app/)
 
-- [Website04 - 영화 정보 사이트] - [Skywatch 사이트](https://vue-moviesite-injis-projects.vercel.app/) & [Github README 정리](https://github.com/KIMJW04/vue-movie)
+- [Website04 - 영화 정보 사이트] - [KIM FOX 사이트](https://miento-movie.web.app/) & [Github README 정리](https://github.com/KIMJW04/vue-movie)
 ---
 
 <div align="center" class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto">📽️ Project 📽️</h3><a href="https://github.com/KIMJW04/travelrank">TRAVEL RANK (여행지 순위 사이트)</a></div>
