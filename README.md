@@ -5,25 +5,25 @@
 
 ---
 ## 📚 Study (24.03.01 ~ ing)   
-- [메인페이지] - [자료 정리 모음](https://kimjw04.github.io/class2024/)
+- [메인페이지] - [기본적인 공부 모음](https://kimjw04.github.io/class2024/) / 2024.03.1 ~ 2024.06.17
 
-- [자바스크립트] - [JAVASCRIPT 기본 개념 정리](https://kimjw04.github.io/class2024/javascript/index.html)
+- [자바스크립트] - [JAVASCRIPT 기본 개념 정리](https://kimjw04.github.io/class2024/javascript/index.html) / 2024.03.19 ~ 2024.05.10
 
-- [MySQL] - [SQL 기본 개념 정리](https://kimjw04.github.io/class2024/mysql/index.html)
+- [MySQL] - [SQL 기본 개념 정리](https://kimjw04.github.io/class2024/mysql/index.html) / 2024.03.22 ~ 2024.04.26
 
-- [Quiz game] - [정보처리기능사 필기 관련 퀴즈게임](https://kimjw04.github.io/class2024/quiz/index.html)
+- [Quiz game] - [정보처리기능사 필기 관련 퀴즈게임](https://kimjw04.github.io/class2024/quiz/index.html) / 2024.04.2 ~ ing
 
-- [Github Blog] - [BLOG](https://kimjw04.github.io/)
+- [Github Blog] - [BLOG](https://kimjw04.github.io/) / 2024.04.2 ~ ing
 
-- [Website01 - Youtube History 정보 서치] - [History 사이트](https://youtube-att.vercel.app/) & [Github README 정리](https://github.com/KIMJW04/youtube_att)
+- [Website01 - Youtube History 정보 서치] - [History 사이트](https://youtube-att.vercel.app/) & [Github README 정리](https://github.com/KIMJW04/youtube_att) / 2024.05.28 ~ 2024.06.23
   
-- [Website02 - 음악 차트 순위 정보 및 플레이리스트] - [Music Chart 사이트](https://miento-music.netlify.app/) & [Github README 정리](https://github.com/KIMJW04/vue-movie)
+- [Website02 - 음악 차트 순위 정보 및 플레이리스트] - [Music Chart 사이트](https://miento-music.netlify.app/) & [Github README 정리](https://github.com/KIMJW04/vue-movie) / 2024.06.4 ~ 2024.06.25
   
-- [Website03 - 포트폴리오] - [포트폴리오 사이트](https://miento-vue.netlify.app/)
+- [Website03 - 포트폴리오] - [포트폴리오 사이트](https://miento-vue.netlify.app/)& [Github README 정리](https://github.com/KIMJW04/vue-movie) / 2024.06.11 ~ 2024.06.12
 
-- [Website04 - 영화 정보 사이트] - [KIM FOX 사이트](https://miento-movie.web.app/) & [Github README 정리](https://github.com/KIMJW04/vue-movie)
+- [Website04 - 영화 정보 사이트] - [KIM FOX 사이트](https://miento-movie.web.app/) & [Github README 정리](https://github.com/KIMJW04/vue-movie) / 2024.06.18 ~ 2024.06.20
 
-- [Website05 - 애플 사이트] - [애플 사이트](https://apple-delta-taupe.vercel.app/) & [Github README 정리](https://github.com/KIMJW04/apple)
+- [Website05 - 애플 사이트] - [애플 사이트](https://apple-delta-taupe.vercel.app/) & [Github README 정리](https://github.com/KIMJW04/apple) / 2024.07.06 ~ 2024.07.08
 ---
 
 <div align="center" class="markdown-heading" dir="auto">
