@@ -5,13 +5,15 @@
 
 ---
 ## 📚 Study (24.03.01 ~ ing)   
+- [메인 포트폴리오] - [제작중](https://github.com/KIMJW04/miento-portfolio) / 2024.07.1 ~ ing
+
 - [메인페이지] - [기본적인 공부 모음](https://kimjw04.github.io/class2024/) / 2024.03.1 ~ 2024.06.17
 
 - [자바스크립트] - [JAVASCRIPT 기본 개념 정리](https://kimjw04.github.io/class2024/javascript/index.html) / 2024.03.19 ~ 2024.05.10
 
-- [MySQL] - [SQL 기본 개념 정리](https://kimjw04.github.io/class2024/mysql/index.html) / 2024.03.22 ~ 2024.04.26
+- [MySQL] - [SQL 기본 개념 정리](https://kimjw04.github.io/class2024/mysql/index.html) / 2024.03.21 ~ 2024.04.05
 
-- [Quiz game] - [정보처리기능사 필기 관련 퀴즈게임](https://kimjw04.github.io/class2024/quiz/index.html) / 2024.04.2 ~ ing
+- [Quiz game] - [정보처리기능사 필기 관련 퀴즈게임](https://kimjw04.github.io/class2024/quiz/index.html) / 2024.04.2 ~ 2024.04.26
 
 - [Github Blog] - [BLOG](https://kimjw04.github.io/) / 2024.04.2 ~ ing
 
