@@ -21,11 +21,13 @@
   
 - [Website02 - 음악 차트 순위 정보 및 플레이리스트] - [Music Chart 사이트](https://miento-music.netlify.app/) & [Github README 정리](https://github.com/KIMJW04/vue-movie) / 2024.06.4 ~ 2024.06.25
   
-- [Website03 - 포트폴리오 예제] - [VUE 포트폴리오 사이트](https://miento-vue.netlify.app/)& [VUE Github README 정리](https://github.com/KIMJW04/vue-movie) [NEXT 포트폴리오 사이트](https://next-port-jet.vercel.app/)& [NEXT Github README 정리](https://github.com/KIMJW04/next-port) / 2024.06.11 ~ 2024.06.12
+- [Website03 - 포트폴리오 예제 VUE] - [VUE 포트폴리오 사이트](https://miento-vue.netlify.app/)& [VUE Github README 정리](https://github.com/KIMJW04/vue-movie) / 2024.06.11 ~ 2024.06.12
 
-- [Website04 - 영화 정보 사이트] - [KIM FOX 사이트](https://miento-movie.web.app/) & [Github README 정리](https://github.com/KIMJW04/vue-movie) / 2024.06.18 ~ 2024.06.20
+- [Website04 - 포트폴리오 예제 NEXT] - [NEXT 포트폴리오 사이트](https://next-port-jet.vercel.app/)& [NEXT Github README 정리](https://github.com/KIMJW04/next-port) / 2024.06.26 ~ 2024.06.26
 
-- [Website05 - 애플 사이트] - [애플 사이트](https://apple-delta-taupe.vercel.app/) & [Github README 정리](https://github.com/KIMJW04/apple) / 2024.07.06 ~ 2024.07.08
+- [Website05 - 영화 정보 사이트] - [KIM FOX 사이트](https://miento-movie.web.app/) & [Github README 정리](https://github.com/KIMJW04/vue-movie) / 2024.06.18 ~ 2024.06.20
+
+- [Website06 - 애플 사이트] - [애플 사이트](https://apple-delta-taupe.vercel.app/) & [Github README 정리](https://github.com/KIMJW04/apple) / 2024.07.06 ~ 2024.07.08
 ---
 
 <div align="center" class="markdown-heading" dir="auto">
