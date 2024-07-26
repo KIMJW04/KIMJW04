@@ -22,9 +22,15 @@
 - [Website03 - 포트폴리오] - [포트폴리오 사이트](https://miento-vue.netlify.app/)
 
 - [Website04 - 영화 정보 사이트] - [KIM FOX 사이트](https://miento-movie.web.app/) & [Github README 정리](https://github.com/KIMJW04/vue-movie)
+
+- [Website05 - 애플 사이트] - [애플 사이트](https://apple-delta-taupe.vercel.app/) & [Github README 정리](https://github.com/KIMJW04/apple)
 ---
 
-<div align="center" class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto">📽️ Project 📽️</h3><a href="https://github.com/KIMJW04/travelrank">TRAVEL RANK (여행지 순위 사이트)</a></div>
+<div align="center" class="markdown-heading" dir="auto">
+  <h3 tabindex="-1" class="heading-element" dir="auto">📽️ Project 📽️</h3>
+  <a href="https://github.com/KIMJW04/travelrank">TRAVEL RANK (여행지 순위 사이트)</a>
+  <a href="https://github.com/KIMJW04/GETmetatag">GETmetatag (여행지 순위 사이트)</a>
+</div>
 <br>
 <br>
 
